@@ -1,0 +1,20 @@
+a developer on the front end who turns pixels into your online vision.
+
+A passionate front-end developer with self-taught training who is busy creating websites and other web-related things. I enjoy the creative work done on the websites.
+Since 2020, I've been creating things for the web.
+
+
+A front-end developer that is passionate about what they do, self-taught, and who is always working on new websites and web-related projects. I like how creatively the websites are made.
+I've been producing content for the internet since 2020.
+
+
+
+        <div className="social-platform-link">
+            <div className="copyright">
+            <p>© Sukant 2023</p>
+            </div>
+            <div className="social-platform">
+            <a href="https://www.linkedin.com/in/sukant-s/">LinkedIn</a>
+                <a href="mailto:sukantsivaraja2002@gmail.com">Mail</a>
+            </div>
+        </div>
